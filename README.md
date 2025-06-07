@@ -13,7 +13,7 @@ Links:
 Building is really easy unlike that one Linux distro. All you have to do is:
 
 * Make sure you have `gcc`
-* Type `mingw32-make` or something... and your done.
+* Type `mingw32-make` or something... and you're done.
 * Don't look at the warnings
 
 # What?
