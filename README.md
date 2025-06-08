@@ -18,4 +18,4 @@ Building is really easy unlike that one Linux distro. All you have to do is:
 
 # What?
 
-I just made this for fun.
+I made this just for fun, and I forgot what I was trying to make here.
